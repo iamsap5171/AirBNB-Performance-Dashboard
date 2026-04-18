@@ -23,7 +23,7 @@ The dashboard is designed with a clean and consistent visual theme, making it ea
 
 🔹 Overview Dashboard
 
-![Overview](Overview Snapshot.png)
+(Overview Snapshot.png)
 
 Highlights:
 
@@ -35,7 +35,7 @@ Highlights:
 
 🔹 Ratings & Market Analysis
 
-![Ratings](Ratings Snapshot.png)
+(Ratings Snapshot.png)
 
 Highlights:
 
@@ -48,7 +48,7 @@ Highlights:
 
 🔹 Reviews & Engagement Analysis
 
-![Reviews](Reviews Snapshot.png)
+(Reviews Snapshot.png)
 
 Highlights:
 
