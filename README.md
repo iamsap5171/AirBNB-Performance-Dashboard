@@ -23,7 +23,7 @@ The dashboard is designed with a clean and consistent visual theme, making it ea
 
 🔹 Overview Dashboard
 
-https://github.com/iamsap5171/AirBNB-Performance-Dashboard/blob/main/Overview%20Snapshot.png
+(Overview Snapshot.png)
 
 Highlights:
 
